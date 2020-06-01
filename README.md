@@ -30,9 +30,8 @@ Now it is time to put some of these new layout skillz to work in replicating som
 [Composition II in red blue and yellow](http://www.piet-mondrian.org/composition-ii-in-red-blue-and-yellow.jsp) (Command-click to open in new tab.)
 
 ## Recommended Approach
-1. Create a new directory in your `code\unit1` folder for this project.
+1. Create a new directory in your `code\unit1` folder for this project. You can also use [Codepen](https://codepen.io/) or [Repl.it](https://repl.it/)
 2. Create one HTML file and one CSS file per layout.
-3. Files should be organized with markup (html) in the root of the project and stylesheets in a /css folder.
-4. You could use one HTML file and one CSS file for all four layouts but you will need to plan your selectors well to avoid collisions.
-5. Refer back to the notes for the lesson. Look up any unfamiliar syntax on MDN. Research specific solutions on Stack Overflow. Follow READ-SEARCH-ASK protocol and only ask others for help after you have exhausted your own avenues for answers.
-6. Wireframe the layouts. Look for how it can fit into the grid and how you can make subgrids or flex containers inside it if necessary.
+3. You could use one HTML file and one CSS file for all four layouts but you will need to plan your selectors well to avoid collisions. If you go this route, files should be organized with markup (html) in the root of the project and stylesheets in a /css folder.
+4. Refer back to the notes for the lesson. Look up any unfamiliar syntax on MDN. Research specific solutions on Stack Overflow. Follow READ-SEARCH-ASK protocol and only ask others for help after you have exhausted your own avenues for answers.
+5. Wireframe the layouts. Look for how it can fit into the grid and how you can make subgrids or flex containers inside it if necessary.
