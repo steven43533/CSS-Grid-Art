@@ -1,7 +1,5 @@
 # CSS-Grid-Art
 
-# CSS Layout Challenge
-
 Now it is time to put some of these new layout skillz to work in replicating some very interesting artistic compositions.
 
 ## Requirements
