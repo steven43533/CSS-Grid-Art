@@ -1,0 +1,57 @@
+div {
+    border: 1px solid black;
+    height: 50px;
+  }
+  
+  #mainContainer {
+    height: 500px;
+    background-color: lightyellow;
+    display: flex;
+  }
+  
+  #bigLeftContainer {
+    background-color: lightblue;
+    width: 75%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  #smallRightContainer{
+    background-color: lightgreen;
+    width: 25%;
+    height: 100%;
+    display: flex;
+    flex-direction: column
+  }
+  
+  #leftTopContainer {
+    display: flex;
+    flex-direction: row;
+    height: 20%;
+  }
+  
+  .leftTopChild {
+    width: 50%;
+    height: 100%;
+  }
+  
+  #leftCenterContainer {
+    display: flex;
+    flex-direction: row;
+    height: 60%;
+  }
+  
+  #leftCenterLeft {
+    width: 33%;
+  }
+  
+  .leftCenterChild {
+    width: 100%;
+    height: 100%;
+  }
+  .leftCenterLeftChild {
+    height: 50%;
+  }
+  .smallGuy {
+    height: 33%;
+  }
